@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-postgres/router"
+	"go-crud/router"
 	"log"
 	"net/http"
 )

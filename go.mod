@@ -1,4 +1,4 @@
-module go-postgres
+module go-crud
 
 go 1.15
 

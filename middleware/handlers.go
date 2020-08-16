@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"encoding/json" // package to encode and decode the json into struct and vice versa
 	"fmt"
-	"go-postgres/models" // models package where User schema is defined
+	"go-crud/models" // models package where User schema is defined
 	"log"
 	"net/http" // used to access the request and response object of the api
 	"os"       // used to read the environment variable
