@@ -3,5 +3,8 @@ CRUD without web framework + PostgreSQL
 
 https://golang.org/
 
-recommended stack for go server
-https://www.google.com/search?q=gorm&oq=gorm&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8
+recommended/preferred stack for go server 
+https://gorm.io/index.html
+https://github.com/99designs/gqlgen
+https://github.com/gofiber/fiber
+
